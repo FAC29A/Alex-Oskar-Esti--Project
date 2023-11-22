@@ -1,0 +1,19 @@
+{
+  "name": "alex-oskar-esti--project",
+  "version": "1.0.0",
+  "description": "FAC29A Discord Chatbot Project by Oskar, Esti, Alexander  ",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FAC29A/Alex-Oskar-Esti--Project.git"
+  },
+  "author": "Oskar Przybylski, Esti Shimoni, Alexander Rodriguez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FAC29A/Alex-Oskar-Esti--Project/issues"
+  },
+  "homepage": "https://github.com/FAC29A/Alex-Oskar-Esti--Project#readme"
+}
