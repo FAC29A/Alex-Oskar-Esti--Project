@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/FAC29A/Alex-Oskar-Esti--Project#readme",
   "devDependencies": {
+    "eslint": "^8.54.0",
     "prettier": "^3.1.0"
   }
 }
