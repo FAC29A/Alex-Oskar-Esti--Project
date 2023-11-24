@@ -9,10 +9,7 @@
     "plugins": [
         "prettier"
     ],
-    "parserOptions": {
-        "ecmaVersion": "latest",
-        "sourceType": "module"
-    },
+   
     "rules": {
         "prettier/prettier": [
             "error"
