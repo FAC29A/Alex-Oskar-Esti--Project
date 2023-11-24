@@ -17,10 +17,6 @@
     "rules": {
         "prettier/prettier": [
             "error"
-        ],
-        "semi": [
-            "error",
-            "never"
         ]
     }
 }
